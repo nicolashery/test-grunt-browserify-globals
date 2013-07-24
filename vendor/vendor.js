@@ -1,0 +1,1 @@
+window.vendor = {VERSION: '0.1.0'};
